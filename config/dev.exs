@@ -3,7 +3,7 @@ import Config
 # Configure your database
 config :budgetbuddy, Budgetbuddy.Repo,
 username: "postgres",
-password: "3472",
+password: "1234",
 hostname: "localhost",
 database: "budgetbuddy_db",
   stacktrace: true,
